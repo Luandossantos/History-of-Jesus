@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "5",
-                afirmacao: "FALSA"
+                afirmacao: "FALSA,"
             },
             {
                 texto: "3",
-                afirmacao: "VERDADEIRA"
+                afirmacao: "VERDADEIRA,"
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Carpinteiro",
-                afirmacao: "VERDADEIRA"
+                afirmacao: "VERDADEIRA,"
             },
             {
                 texto: "Pescador",
-                afirmacao: "FALSA"
+                afirmacao: "FALSA,"
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Biblía",
-                afirmacao: "FALSA"
+                afirmacao: "FALSA,"
             },
             {
                 texto: "Alcorão",
-                afirmacao: "VERDADEIRA"
+                afirmacao: "VERDADEIRA,"
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "12",
-                afirmacao: "VERDADEIRA"
+                afirmacao: "VERDADEIRA,"
             },
             {
                 texto: "11",
-                afirmacao: "FALSA"
+                afirmacao: "FALSA,"
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Jerusalém",
-                afirmacao: "FALSA"
+                afirmacao: "FALSA,"
             },
             {
                 texto: "Belém",
-                afirmacao: "VERDADEIRA"
+                afirmacao: "VERDADEIRA,"
             }
         ]
     },
