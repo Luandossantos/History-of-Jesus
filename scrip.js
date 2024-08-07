@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "5",
-                afirmacao: "FALSA,"
+                afirmacao: "FALSA, NÃO FOI DESTA VEZ ESTAVAM PRESENTES EM SEU NASCIMENTO 3 REIS MAGOS;"
             },
             {
                 texto: "3",
-                afirmacao: "VERDADEIRA,"
+                afirmacao: "VERDADEIRO,ISTO MESMO ESTAVAM PRESENTES NO NASCIMENTO DO MENINO JESUS 3 REIS MAGOS;"
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Carpinteiro",
-                afirmacao: "VERDADEIRA,"
+                afirmacao: "Verdadeira, a profissão do pai de Jesus era carpinteiro;"
             },
             {
                 texto: "Pescador",
-                afirmacao: "FALSA,"
+                afirmacao: "Falsa, a profissão do pai de Jesus era carpinteiro e não pescador;"
             }
         ]
     },
@@ -36,24 +36,24 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Biblía",
-                afirmacao: "FALSA,"
+                afirmacao: "FALSA, O LIVRO QUE JESUS ESCREVEU NÃO FOI A BIBLÍA E SIM ALCORÃO;"
             },
             {
                 texto: "Alcorão",
-                afirmacao: "VERDADEIRA,"
+                afirmacao: "VERDADEIRA, ISTO MESMO! O LIVRO QUE JESUS CRISTO ESCREVEU FOI O ALCORÃO;"
             }
         ]
     },
     {
-        enunciado: "QUANTOS DICÍPULOS JESUS TINHA ?",
+        enunciado: "QUANTOS DISCÍPULOS JESUS TINHA ?",
         alternativas: [
             {
                 texto: "12",
-                afirmacao: "VERDADEIRA,"
+                afirmacao: "Verdadeira, exato! Jesus tinha 12 discípulpos; "
             },
             {
                 texto: "11",
-                afirmacao: "FALSA,"
+                afirmacao: "Falsa, não foi desta vez... Jesus tinha 12 discípulos;"
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Jerusalém",
-                afirmacao: "FALSA,"
+                afirmacao: "FALSA, JESUS NASCEU NA CIDADE DE BELÉM."
             },
             {
                 texto: "Belém",
-                afirmacao: "VERDADEIRA,"
+                afirmacao: "VERDADEIRA, JESUS NASCEU NA CIDADE DE BELÉM."
             }
         ]
     },
