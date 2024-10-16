@@ -30,12 +30,12 @@ export const perguntas = [
                     "Verdadeira, sim, o pai de Jesus era carpinteiro;"
                 ],
                 proxima: 3,
-
             },
             {
-                texto: [
-                    "Falsa, a profissão do pai de Jesus era carpinteiro e não pescador;",
-                    "Falsa, o pai de Jesus era um carpinteiro;"
+                texto: "Pescador",
+                afirmacao: [
+                    "Falsa, o pai de Jesus era um carpinteiro;",
+                    "Falsa, o pai de Jesus não era pescador e sim carpinteiro;"
                 ],
                 proxima: 4,
             },
